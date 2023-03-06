@@ -1,0 +1,10 @@
+.edit, .delete{
+    background-color: grey;
+    cursor: pointer;
+    color: white;
+    padding-left: 3px;
+    border-radius: 5px;
+}
+.update{
+    display: none;
+}
